@@ -1,2 +1,2 @@
-# MyProject
-Docker Project
+# My Docker Project
+My project is based on launching multiple containers because in docker sometimes it become very tideous for the developer to launch multiple and configure them seprately. My project can solve those issue i have launch mulitple containers in single go and launch them. I just use two different database containers that can be configured easily with any framework like php, joomla, drupal etc.
