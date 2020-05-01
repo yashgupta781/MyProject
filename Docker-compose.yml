@@ -1,0 +1,8 @@
+version:'3'
+services:
+	mysql_database:
+		image:"mysql:latest"
+		environment:
+			MYSQL_ROOT_PASSWORD="password"
+	web_test:
+		images:"nginx:latest"
